@@ -1,0 +1,21 @@
+{
+    "name": "javascript-rogue",
+    "version": "1.0.0",
+    "description": "Классическая игра rogue на языке JavaScript",
+    "main": "main.js",
+    "type": "module",
+    "scripts": {
+        "start": "node main.js",
+        "test": "echo \"Error: тест не указан\" && exit 1"
+    },
+    "dependencies": {
+        "blessed": "^0.1.81"
+    },
+    "keywords": [
+        "rogue",
+        "game",
+        "javascript"
+    ],
+    "author": "roman_tkachik",
+    "license": "MIT"
+}
